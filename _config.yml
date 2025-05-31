@@ -1,4 +1,5 @@
+# _config.yml
 title: Mi Empresa Creativa
 description: Un sitio simple hecho con Jekyll
 theme: minima
-
+baseurl: "/mi-sitio-jekyll" 

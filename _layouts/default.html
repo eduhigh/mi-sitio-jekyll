@@ -41,14 +41,13 @@
       <h1>{{ site.title }}</h1>
     </header>
     <nav>
-      <a href="/sitio-jekyll-ejercicio/">Inicio</a>
-      <a href="/sitio-jekyll-ejercicio/about.html">Misión y Visión</a>
-      <a href="/sitio-jekyll-ejercicio/catalog.html">Catálogo</a>
-      <a href="/sitio-jekyll-ejercicio/contact.html">Contacto</a>
+      <a href="{{ '/' | relative_url }}">Inicio</a>
+      <a href="{{ '/about.html' | relative_url }}">Misión y Visión</a>
+      <a href="{{ '/catalog.html' | relative_url }}">Catálogo</a>
+      <a href="{{ '/contact.html' | relative_url }}">Contacto</a>
     </nav>
     <main>
       {{ content }}
     </main>
   </body>
 </html>
-
