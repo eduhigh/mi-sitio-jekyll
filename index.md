@@ -3,6 +3,7 @@ layout: default
 title: Inicio
 ---
 
-# Bienvenido a Mi Sitio 
+# Bienvenido a Mi Empresa Creativa
 
-Este es el inicio del sitio web para el ejercicio.
+Ofrecemos soluciones innovadoras para tus necesidades digitales.
+

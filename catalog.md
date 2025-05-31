@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Catálogo
-permalink: /catalog/
+title: Catálogo de Productos
 ---
 
-## Catálogo de Productos
+## Nuestros Productos
 
-- **Producto 1**: Q100  
-- **Producto 2**: Q200  
-- **Producto 3**: Q300
+- **Sitios Web Personalizados**  
+- **Tiendas en Línea**  
+- **Aplicaciones Móviles**  
